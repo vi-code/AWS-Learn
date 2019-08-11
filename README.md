@@ -1,2 +1,0 @@
-# AWS-Learn
-Learning AWS 
